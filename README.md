@@ -82,17 +82,9 @@
 
 ## 🤝 Connect
 - Portfolio: *Coming Soon 🚀*  
-- LinkedIn: *[Your LinkedIn Link]*  
-- Email: *your.email@example.com*  
+- LinkedIn: *[https://www.linkedin.com/in/nonye-dominica-okoli-331460270]*  
+- Email: *okolidominica26@gmail.com*  
 
----
-
-> “Building the web, one page at a time.” 🌍
-
-✨ This now clearly highlights your role (Frontend Developer) and your top skills (HTML5, CSS, Bootstrap, GitHub).
-
-Do you also want me to include Bootstrap badges/examples of projects made with Bootstrap to emphasize it mo
-  
 
 
 
